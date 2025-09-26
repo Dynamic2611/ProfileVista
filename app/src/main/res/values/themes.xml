@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.ProfileVista" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Common customizations -->
+        <!-- <item name="colorPrimary">@color/my_primary</item> -->
+    </style>
+
+    <style name="Theme.ProfileVista" parent="Base.Theme.ProfileVista" />
+
+    <style name="Base.Theme.ProfileVista.Light" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ProfileVista.Light" parent="Base.Theme.ProfileVista.Light" />
+
+    <style name="Base.Theme.ProfileVista.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Customize your dark theme here -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="Theme.ProfileVista.Dark" parent="Base.Theme.ProfileVista.Dark" />
+
+</resources>
