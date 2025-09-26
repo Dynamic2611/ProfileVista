@@ -33,5 +33,3 @@ If resources are missing:
 - Add `ic_user_placeholder.xml` in `res/drawable/` (default avatar)  
 - Add `ic_chevron_right.xml` in `res/drawable/` (arrow icon for list items)  
 
-## License
-Free to use for learning & practice 
